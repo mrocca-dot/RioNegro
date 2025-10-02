@@ -1,0 +1,9 @@
+body {background-color: lightblue;}
+
+
+body head {
+  font-family: "Alan Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
